@@ -1,0 +1,10 @@
+{
+  "student_id": "STU-123456",
+  "student_name": "Aarav Sharma",
+  "date_of_birth": "2015-06-15",
+  "parent_email": "parent@example.com",
+  "parent_phone": "9876543210",
+  "learning_support_required": true,
+  "consent_given": true,
+  "region": "central"
+}
