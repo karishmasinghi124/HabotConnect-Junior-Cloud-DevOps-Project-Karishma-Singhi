@@ -1,0 +1,7 @@
+project_id = "approved-gcp-project-id"
+region = "asia-south1"
+environment = "staging"
+raw_bucket_name = "globally-unique-bucket-name"
+bigquery_dataset_id = "d1_staged_enforced"
+data_ingestion_service_account = "data-ingestion@PROJECT_ID.iam.gserviceaccount.com"
+analytics_group = "analytics@example.com"
