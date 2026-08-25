@@ -1,0 +1,2 @@
+Demonstration only. This is intentionally excluded from the secret scan.
+API_KEY=DEMONSTRATION_SECRET_VALUE
