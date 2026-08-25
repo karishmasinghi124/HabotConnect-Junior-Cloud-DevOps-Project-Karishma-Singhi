@@ -1,0 +1,10 @@
+{
+  "student_id": "123456",
+  "student_name": "A",
+  "date_of_birth": "2099-01-01",
+  "parent_email": "invalid-email",
+  "parent_phone": "123",
+  "learning_support_required": "yes",
+  "consent_given": false,
+  "region": "unknown"
+}
